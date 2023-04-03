@@ -1,8 +1,8 @@
 # Atividade Projeto Estruturado APE 11
 
-Nome do Acadêmico: Felipe Gabriel Dalmagro   
-RA: 09010037
+Nome do Acadêmico: Romoaldo Nottar  
 
+RA: 09019861
 
 #### 1. O que é GIT?
 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
@@ -62,13 +62,3 @@ Um dos problemas do Subversion são as críticas relacionadas à eficácia do so
 O TFS — sigla para Team Foundation Server — é uma outra ferramenta de controle de versão de software que pode ser utilizada na sua empresa. Ele traz uma série de características interessantes, principalmente se você utiliza metodologias agile no setor de TI da sua empresa.
 
 Isso porque ele possibilita a gestão de projetos por meio de SCRUM ou CMMI. Também permite a utilização de forma centralizada ou distribuída, sendo adequado tanto para equipes que compartilham o mesmo espaço físico quanto aquelas que trabalham à distância. Outra vantagem apresentada por esse sistema é o fato de não possuir limitações de crescimento e ter integração direta com o Microsoft office.
-
-
-
-
-
-
-
-
-
-
